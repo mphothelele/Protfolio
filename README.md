@@ -1,2 +1,2 @@
-# Protfolio
+# Portfolio
 This is a simple web page 
